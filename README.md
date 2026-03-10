@@ -3,12 +3,12 @@
 A real-time object detection web app built with YOLO11 and Streamlit.
 
 ## Features
-- 🖼️ Image upload detection
-- 🎬 Video upload with persistent object tracking (ByteTrack)
-- 📷 Live webcam feed with real-time detection
-- 🎚️ Confidence threshold slider
-- 🏷️ Class filter (80 COCO classes)
-- 📊 Detection summary with unique object counts
+- Image upload detection
+- Video upload with persistent object tracking (ByteTrack)
+- Live webcam feed with real-time detection
+- Confidence threshold slider
+- Class filter (80 COCO classes)
+- Detection summary with unique object counts
 
 ## Tech Stack
 - [YOLO11](https://docs.ultralytics.com) — object detection & tracking
