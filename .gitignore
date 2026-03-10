@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# YOLO model weights (too large for GitHub)
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temp files
+*.tmp
+uploads/
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
